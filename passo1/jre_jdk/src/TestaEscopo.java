@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class TestaEscopo {
 
     public static void main(String[] args) {
